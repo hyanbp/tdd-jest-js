@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1566176788244" clover="3.2.0">
-  <project timestamp="1566176788244" name="All files">
+<coverage generated="1566179892959" clover="3.2.0">
+  <project timestamp="1566179892959" name="All files">
     <metrics statements="16" coveredstatements="16" conditionals="14" coveredconditionals="14" methods="4" coveredmethods="4" elements="34" coveredelements="34" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
     <file name="fizzbuzz.js" path="/home/hyan/hyan/projects/tdd-jest-js/fizzbuzz.js">
       <metrics statements="16" coveredstatements="16" conditionals="14" coveredconditionals="14" methods="4" coveredmethods="4"/>
