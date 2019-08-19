@@ -1,0 +1,14 @@
+{
+  "name": "tdd-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "npx jest --coverage"
+  },
+  "author": "hyanbp",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
