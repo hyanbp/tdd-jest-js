@@ -4,12 +4,15 @@
   "description": "",
   "main": "fizzbuzz.js",
   "scripts": {
-    "test": "npx jest --coverage"
+    "test": "npx jest --coverage",
+    "test:coverage": "npm test -- --coverage",
+    "test:badges": "npm run test:coverage  && jest-coverage-badges"
   },
   "author": "hyanbp",
   "license": "MIT",
   "dependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "jest-coverage-badges": "^1.1.2"
   },
   "devDependencies": {
     "coveralls": "^3.0.6"
